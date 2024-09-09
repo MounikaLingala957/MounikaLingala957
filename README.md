@@ -13,7 +13,9 @@ I'm a Data Analyst with experience in SQL, Python, Power BI, and data visualizat
 - [**Mars Weather Analysis**](https://github.com/yourusername/Mars-Weather-Analysis): Analyzed NASA Mars weather data and visualized trends using Python.
 
 ## 📫 How to Reach Me
-- [LinkedIn](www.linkedin.com/in/mounikalingalada)
+- [LinkedIn] (https://www.linkedin.com/in/mounikalingalada)
+
+
 
 - Email: mounika.lingala96@gmail.com
 
